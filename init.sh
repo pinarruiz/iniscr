@@ -1,3 +1,3 @@
 apt update
 apt upgrade -y
-apt install wget nano curl unzip default-jre -y
+apt install net-tools wget nano curl unzip default-jre -y
